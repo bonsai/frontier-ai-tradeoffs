@@ -40,3 +40,16 @@ When proposing or evaluating a frontier AI effort:
 - Assuming that "making the model smarter" is always the highest-leverage next step.
 - Treating infrastructure, inference, and cost work as secondary to "research."
 - Debating theoretical improvements without a concrete path to measurable Pareto expansion.
+
+## KPI / Signs the skill is working
+
+This skill is a perspective and attention director, not a rigid contract. Evaluate it by whether attention landed on the right constraints.
+
+| KPI | Good sign | Bad sign |
+|-----|-----------|----------|
+| Constraint explicitness | The binding constraint is clearly named ("the bottleneck is X") | Stays at vague "make it smarter" |
+| Pareto awareness | Multiple axes (quality×speed, capability×safety, etc.) are actively traded off | Chasing a single metric in isolation |
+| Cost/speed as strategic | Efficiency and latency work are treated as first-class enablers of the next leap | Dismissed as "not research" |
+| Reverse reasoning | Starts from user/product constraints and works backward | Starts from a technique and searches for a problem |
+
+Meta signals: the discussion updates "what we should be looking at" and leads to higher-leverage next experiments rather than more debate.
